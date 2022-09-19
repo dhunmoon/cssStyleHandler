@@ -1,2 +1,2 @@
 # CSS Style Handler
-A simple CSS stylesheet handler
+Work In Progress
